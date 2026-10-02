@@ -1,17 +1,41 @@
-# Portfólio — Igor Batista Pereira
+# Igor Batista Pereira | Portfólio
 
-Site estático em HTML, CSS e JavaScript puro. Sem build e sem dependências.
+> 🚧 **Projeto em desenvolvimento**
 
-## Como editar
-Todo o conteúdo (textos, links, projetos, experiência, formação, tecnologias) fica em **`js/data.js`**.
-Campos com `[ADICIONAR ...]` são placeholders: aparecem como "a adicionar" e não geram link até serem preenchidos.
+Portfólio pessoal desenvolvido para apresentar minha trajetória na área de Tecnologia da Informação, reunindo minha formação, habilidades, experiências e projetos.
 
-- Currículo: coloque o PDF em `assets/` e preencha `perfil.curriculo` (o botão só aparece com o arquivo definido).
-- Imagem de projeto: salve em `imagens/` e preencha `imagem` e `imagemAlt` no projeto.
-- Cores e tema: variáveis no início de `css/style.css`.
+Atualmente, o projeto está em desenvolvimento e novas funcionalidades, melhorias visuais e conteúdos serão adicionados ao longo do tempo.
 
-## Como publicar
-Funciona no GitHub Pages, Netlify ou Vercel (pasta raiz). Depois de publicar, troque `og:image` em `index.html` por uma URL absoluta.
+## Sobre o projeto
 
-## Estrutura
-index.html · css/style.css · js/data.js · js/main.js · assets/favicon.svg · imagens/
+O portfólio tem como objetivo centralizar minhas principais informações profissionais e acadêmicas em uma interface moderna, responsiva e de fácil navegação.
+
+Entre os conteúdos planejados estão:
+
+- Apresentação pessoal e profissional
+- Formação acadêmica
+- Habilidades e tecnologias
+- Experiências
+- Projetos desenvolvidos
+- Links para GitHub e LinkedIn
+- Informações para contato
+
+## Status
+
+🟡 **Em desenvolvimento**
+
+O projeto ainda está sendo construído e poderá receber alterações na estrutura, design, conteúdo e funcionalidades.
+
+## Acesso
+
+🌐 **Portfólio:** em desenvolvimento
+
+🔗 **Repositório:**  
+[GitHub](https://github.com/igorbatistapdev)
+
+## Desenvolvimento
+
+Para executar o projeto localmente:
+
+```bash
+git clone https://github.com/igorbatistapdev/Portfolio.git
